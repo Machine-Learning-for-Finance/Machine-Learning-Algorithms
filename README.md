@@ -1,11 +1,14 @@
 # Machine-Learning-Algorithms
 
+<<<<<<< HEAD
 
 ```
 wget https://labs-fannie-data.s3.amazonaws.com/Acquisition/Acquisition_2000Q1.txt
 wget https://labs-fannie-data.s3.amazonaws.com/Acquisition/Performance_2000Q1.txt
 ```
 
+=======
+>>>>>>> Udpate to format and README
 This repository contains a collection of scripts and Jupyter notebooks around aspects of machine learning.
 
 
@@ -37,3 +40,4 @@ This repository contains a collection of scripts and Jupyter notebooks around as
 
 ### Python Class Objects
 - https://www.tutorialspoint.com/python/python_classes_objects.htm
+

@@ -29,4 +29,11 @@ This repository contains a collection of scripts and Jupyter notebooks around as
     - Decision Trees
 
 - 05-Model Testing
->>>>>>> Udpate to format and README
+
+
+# Python Resources
+
+- TutorialsPoint: https://www.tutorialspoint.com/python/index.htm
+
+### Python Class Objects
+- https://www.tutorialspoint.com/python/python_classes_objects.htm

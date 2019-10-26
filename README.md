@@ -5,6 +5,8 @@ wget https://labs-fannie-data.s3.amazonaws.com/Acquisition/Acquisition_2000Q1.tx
 wget https://labs-fannie-data.s3.amazonaws.com/Acquisition/Performance_2000Q1.txt
 ```
 
+This repository contains a collection of scripts and Jupyter notebooks around aspects of machine learning.
+
 
 - 01-Data Loading
     - Data Loading
@@ -28,7 +30,6 @@ wget https://labs-fannie-data.s3.amazonaws.com/Acquisition/Performance_2000Q1.tx
 - 05-Model Testing
 
 
-
 # Python Resources
 
 - TutorialsPoint: https://www.tutorialspoint.com/python/index.htm
@@ -37,5 +38,7 @@ wget https://labs-fannie-data.s3.amazonaws.com/Acquisition/Performance_2000Q1.tx
 
 - https://www.tutorialspoint.com/python/python_classes_objects.htm
 
+
+- https://www.tutorialspoint.com/python/python_classes_objects.htm
 
 - https://www.tutorialspoint.com/python/python_classes_objects.htm

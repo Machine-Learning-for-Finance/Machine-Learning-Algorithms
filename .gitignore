@@ -108,3 +108,8 @@ venv.bak/
 
 # PyCharm
 .idea/
+
+# Data Folders
+data/*.json
+data/*.csv
+data/*.txt

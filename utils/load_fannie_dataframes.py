@@ -13,6 +13,7 @@ def load_dataframes_fannie(aqcuisition: str,
     :param kwargs:
     :return:
     """
+    print(f"Loading Acquisition Dataframe")
     acquisition_df = pd.read_csv(
         aqcuisition,
         names=AcquisitionColumnNames,
@@ -20,6 +21,7 @@ def load_dataframes_fannie(aqcuisition: str,
         sep="|"
     )
 
+    print(f"Loading Performance Dataframe")
     performance_df = pd.read_csv(
         performance,
         names=PerformanceColumnNames,

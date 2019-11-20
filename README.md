@@ -29,6 +29,9 @@ This repository contains a collection of scripts and Jupyter notebooks around as
 
 - 05-Model Testing
 
+# Resources
+- https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough
+
 
 # Python Resources
 

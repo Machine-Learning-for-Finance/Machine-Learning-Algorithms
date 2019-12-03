@@ -30,3 +30,7 @@ This repository contains a collection of scripts and Jupyter notebooks around as
 - https://www.tutorialspoint.com/python/python_classes_objects.htm
 
 - https://www.tutorialspoint.com/python/python_classes_objects.htm
+
+### Other Machine Learning 
+
+- https://github.com/firmai/financial-machine-learning
